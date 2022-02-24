@@ -49,8 +49,8 @@ ou
 ### de tarefas
 
 - [x] tarefa 1 (concluída)
--[] tarefa 2
--[] tarefa 3
+- [ ] tarefa 2
+- [ ] tarefa 3
 
 ## imagem
 
